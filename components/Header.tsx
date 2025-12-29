@@ -32,7 +32,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <span className="text-2xl">🏔️</span>
-            <span className="text-xl font-bold text-gray-900">Heards</span>
+            <span className="text-xl font-bold text-gray-900">HEART Apartments</span>
           </Link>
 
           {/* Desktop Navigation */}

@@ -15,14 +15,14 @@ export function generateStaticParams() {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Heards Apartments | Interlaken, Switzerland',
-    template: '%s | Heards Apartments',
+    default: 'HEART Apartments Interlaken | Interlaken, Switzerland',
+    template: '%s | HEART Apartments Interlaken',
   },
   description: 'Discover 5 beautiful apartments in central Interlaken, perfect for exploring the Swiss Alps and Jungfrau region.',
   keywords: ['Interlaken apartments', 'Swiss Alps accommodation', 'Jungfrau region', 'vacation rental Interlaken', 'Switzerland holiday'],
-  authors: [{ name: 'Heards Apartments' }],
+  authors: [{ name: 'HEART Apartments Interlaken' }],
   openGraph: {
-    title: 'Heards Apartments - Your Home in Interlaken',
+    title: 'HEART Apartments Interlaken - Your Home in Interlaken',
     description: 'Luxury apartments in central Interlaken, Switzerland',
     type: 'website',
     locale: 'en_US',

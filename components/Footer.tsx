@@ -17,7 +17,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <span className="text-2xl">🏔️</span>
-              <span className="text-xl font-bold">Heards Apartments</span>
+              <span className="text-xl font-bold">HEART Apartments Interlaken</span>
             </div>
             <p className="text-gray-400 text-sm">
               {t('tagline')}
@@ -76,7 +76,7 @@ export default function Footer() {
         <div className="mt-8 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              © {currentYear} Heards Apartments. {t('copyright')}
+              © {currentYear} HEART Apartments Interlaken. {t('copyright')}
             </p>
             <p className="text-gray-500 text-sm flex items-center">
               {t('madeWith')} <span className="text-red-500 mx-1">❤️</span> in Interlaken

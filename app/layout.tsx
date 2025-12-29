@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Heards Apartments',
+  title: 'HEART Apartments Interlaken',
   description: 'Luxury apartments in Interlaken, Switzerland',
 };
 
