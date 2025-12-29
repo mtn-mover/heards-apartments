@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "apartments": "Wohnungen",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "heroTitle": "Heards Apartments",
+    "heroSubtitle": "Ihr Zuhause im Herzen der Schweizer Alpen",
+    "heroLocation": "Interlaken, Schweiz",
+    "viewApartments": "Alle Wohnungen ansehen",
+    "featuredTitle": "Unsere Wohnungen",
+    "featuredSubtitle": "Entdecken Sie unsere Kollektion komfortabler Wohnungen im Zentrum von Interlaken",
+    "aboutSnippetTitle": "Willkommen in Interlaken",
+    "aboutSnippetText": "Erleben Sie die Magie der Schweizer Alpen von unseren zentral gelegenen Wohnungen aus. Nur wenige Schritte von Bahnhöfen, Restaurants und Abenteueraktivitäten entfernt, bieten unsere Wohnungen die perfekte Basis für die Erkundung der atemberaubenden Jungfrauregion.",
+    "learnMore": "Mehr über uns erfahren"
+  },
+  "apartment": {
+    "guests": "Gäste",
+    "upTo": "Bis zu",
+    "bookNow": "Auf Airbnb buchen",
+    "viewDetails": "Details ansehen",
+    "amenities": "Ausstattung",
+    "location": "Standort",
+    "idealFor": "Ideal für",
+    "gallery": "Galerie",
+    "description": "Beschreibung",
+    "backToApartments": "Zurück zu Wohnungen",
+    "otherApartments": "Weitere Wohnungen"
+  },
+  "amenities": {
+    "ac": "Klimaanlage",
+    "elevator": "Aufzug",
+    "wifi": "Kostenloses WLAN",
+    "kitchen": "Vollständige Küche",
+    "charm": "Schweizer Charme",
+    "traditional": "Traditionelles Chalet",
+    "balcony": "Balkon",
+    "patio": "Terrasse"
+  },
+  "about": {
+    "title": "Über Heards Apartments",
+    "subtitle": "Ihr vertrauenswürdiges Zuhause in den Schweizer Alpen",
+    "whoWeAre": "Wer wir sind",
+    "whoWeAreText": "Heards Apartments bietet eine Kollektion sorgfältig ausgewählter Wohnungen im Herzen von Interlaken, Schweiz. Wir widmen uns der Bereitstellung komfortabler, moderner Unterkünfte, die als perfekte Basis für die Erkundung der atemberaubenden Jungfrauregion dienen.",
+    "whyInterlaken": "Warum Interlaken?",
+    "whyInterlakenText": "Eingebettet zwischen dem Thunersee und dem Brienzersee ist Interlaken die Abenteuerhauptstadt der Schweiz. Von hier aus können Sie leicht weltberühmte Ziele wie das Jungfraujoch, Grindelwald und unzählige Wanderwege erreichen, während Sie den Charme einer traditionellen Schweizer Stadt geniessen.",
+    "ourPromise": "Unser Versprechen",
+    "ourPromiseText": "Jede unserer Wohnungen ist sorgfältig mit modernen Annehmlichkeiten ausgestattet und bewahrt gleichzeitig die Wärme und den Komfort eines Zuhauses fern der Heimat. Wir sind stolz darauf, jedem Gast einen unvergesslichen Aufenthalt in den Schweizer Alpen zu ermöglichen.",
+    "exploreInterlaken": "Aktivitäten in Interlaken",
+    "activity1": "Besuchen Sie das Jungfraujoch - Top of Europe",
+    "activity2": "Gleitschirmfliegen über den Alpen",
+    "activity3": "Schifffahrt auf dem Thuner- oder Brienzersee",
+    "activity4": "Wandern in der Jungfrauregion",
+    "activity5": "Erkunden Sie die Trümmelbachfälle",
+    "activity6": "Tagesausflug nach Grindelwald"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Wir freuen uns von Ihnen zu hören",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "addressText": "Interlaken, Schweiz",
+    "bookingNote": "Für Buchungsanfragen besuchen Sie bitte unsere Wohnungsinserate auf Airbnb.",
+    "viewOnAirbnb": "Alle Wohnungen auf Airbnb ansehen"
+  },
+  "footer": {
+    "tagline": "Ihr Zuhause im Herzen der Schweizer Alpen",
+    "quickLinks": "Schnelllinks",
+    "followUs": "Bei uns buchen",
+    "copyright": "Alle Rechte vorbehalten.",
+    "madeWith": "Erstellt mit"
+  },
+  "seo": {
+    "homeTitle": "Heards Apartments | Luxuswohnungen in Interlaken, Schweiz",
+    "homeDescription": "Entdecken Sie 5 wunderschöne Wohnungen im Zentrum von Interlaken, perfekt für die Erkundung der Schweizer Alpen und der Jungfrauregion. Buchen Sie direkt auf Airbnb.",
+    "apartmentsTitle": "Unsere Wohnungen | Heards Apartments Interlaken",
+    "apartmentsDescription": "Durchstöbern Sie unsere Kollektion von 5 modernen Wohnungen im Zentrum von Interlaken. Klimaanlage, Aufzug und Gehweite zu Bahnhöfen.",
+    "aboutTitle": "Über uns | Heards Apartments Interlaken",
+    "aboutDescription": "Erfahren Sie mehr über Heards Apartments und entdecken Sie, warum Interlaken das perfekte Ziel für Ihr Schweizer Alpen-Abenteuer ist.",
+    "contactTitle": "Kontakt | Heards Apartments Interlaken",
+    "contactDescription": "Kontaktieren Sie Heards Apartments. Buchen Sie Ihren Aufenthalt in Interlaken, Schweiz."
+  }
+}

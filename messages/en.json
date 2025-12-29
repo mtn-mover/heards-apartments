@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "apartments": "Apartments",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Heards Apartments",
+    "heroSubtitle": "Your Home in the Heart of the Swiss Alps",
+    "heroLocation": "Interlaken, Switzerland",
+    "viewApartments": "View All Apartments",
+    "featuredTitle": "Our Apartments",
+    "featuredSubtitle": "Discover our collection of comfortable apartments in central Interlaken",
+    "aboutSnippetTitle": "Welcome to Interlaken",
+    "aboutSnippetText": "Experience the magic of the Swiss Alps from our centrally located apartments. Just steps away from train stations, restaurants, and adventure activities, our apartments offer the perfect base for exploring the stunning Jungfrau region.",
+    "learnMore": "Learn More About Us"
+  },
+  "apartment": {
+    "guests": "guests",
+    "upTo": "Up to",
+    "bookNow": "Book on Airbnb",
+    "viewDetails": "View Details",
+    "amenities": "Amenities",
+    "location": "Location",
+    "idealFor": "Ideal For",
+    "gallery": "Gallery",
+    "description": "Description",
+    "backToApartments": "Back to Apartments",
+    "otherApartments": "Other Apartments"
+  },
+  "amenities": {
+    "ac": "Air Conditioning",
+    "elevator": "Elevator",
+    "wifi": "Free WiFi",
+    "kitchen": "Full Kitchen",
+    "charm": "Swiss Charm",
+    "traditional": "Traditional Chalet",
+    "balcony": "Balcony",
+    "patio": "Patio"
+  },
+  "about": {
+    "title": "About Heards Apartments",
+    "subtitle": "Your trusted home in the Swiss Alps",
+    "whoWeAre": "Who We Are",
+    "whoWeAreText": "Heards Apartments offers a collection of carefully curated apartments in the heart of Interlaken, Switzerland. We are dedicated to providing our guests with comfortable, modern accommodations that serve as the perfect base for exploring the stunning Jungfrau region.",
+    "whyInterlaken": "Why Interlaken?",
+    "whyInterlakenText": "Nestled between Lake Thun and Lake Brienz, Interlaken is the adventure capital of Switzerland. From here, you can easily access world-famous destinations like Jungfraujoch, Grindelwald, and countless hiking trails, all while enjoying the charm of a traditional Swiss town.",
+    "ourPromise": "Our Promise",
+    "ourPromiseText": "Each of our apartments is thoughtfully equipped with modern amenities while maintaining the warmth and comfort of a home away from home. We take pride in ensuring every guest has an unforgettable stay in the Swiss Alps.",
+    "exploreInterlaken": "Things to Do in Interlaken",
+    "activity1": "Visit Jungfraujoch - Top of Europe",
+    "activity2": "Paragliding over the Alps",
+    "activity3": "Cruise on Lake Thun or Lake Brienz",
+    "activity4": "Hiking in the Jungfrau region",
+    "activity5": "Explore Trümmelbach Falls",
+    "activity6": "Day trip to Grindelwald"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "addressText": "Interlaken, Switzerland",
+    "bookingNote": "For booking inquiries, please visit our apartment listings on Airbnb.",
+    "viewOnAirbnb": "View All Apartments on Airbnb"
+  },
+  "footer": {
+    "tagline": "Your Home in the Heart of the Swiss Alps",
+    "quickLinks": "Quick Links",
+    "followUs": "Book With Us",
+    "copyright": "All rights reserved.",
+    "madeWith": "Made with"
+  },
+  "seo": {
+    "homeTitle": "Heards Apartments | Luxury Apartments in Interlaken, Switzerland",
+    "homeDescription": "Discover 5 beautiful apartments in central Interlaken, perfect for exploring the Swiss Alps and Jungfrau region. Book directly on Airbnb.",
+    "apartmentsTitle": "Our Apartments | Heards Apartments Interlaken",
+    "apartmentsDescription": "Browse our collection of 5 modern apartments in central Interlaken. Air conditioning, elevator access, and walking distance to train stations.",
+    "aboutTitle": "About Us | Heards Apartments Interlaken",
+    "aboutDescription": "Learn about Heards Apartments and discover why Interlaken is the perfect destination for your Swiss Alps adventure.",
+    "contactTitle": "Contact Us | Heards Apartments Interlaken",
+    "contactDescription": "Get in touch with Heards Apartments. Book your stay in Interlaken, Switzerland."
+  }
+}
